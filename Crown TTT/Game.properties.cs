@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Crown_TTT
 {
+        //Tic Tac Toe Game 1.0 Properties
     public partial class Game
     {
         public string Player1Icon { get { return Player1; } set {  Player1 = value; } }

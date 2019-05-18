@@ -10,7 +10,6 @@ using System.IO;
 namespace Crown_TTT 
 {
         // Tic Tac Toe Game Verson 1.0
-
     public partial class Game
     {
         public Game(string CurrentTurn)
